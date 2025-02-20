@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi, I'm Abhishek Sukhadiya! 👋
 
-<!--
-**ARSukhadiya/ARSukhadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** with a strong foundation in **Python**, **AI/ML**, and **Automation Testing**.  
+I’m passionate about building scalable systems and applying machine learning to real-world challenges.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Technologies I work with**:
+- **Programming**: Python, Java, Scala, C, JavaScript, SQL
+- **Web Development**: HTML, CSS, JavaScript
+- **Testing & Automation**: Selenium, PyTest
+- **Tools**: AWS (S3), GitHub, Jira, Bitbucket, Datadog
+
+\
+🔍 **What I do**:
+- 🛠 **Develop** efficient, data-driven systems using **AI/ML** and **Python**.
+- ⚙️ **Automate** processes and create frameworks to improve software testing and performance.
+- 🔍 **Build** solutions that streamline data collection and enhance decision-making.
+
+\
+🚀 **Current Project**:
+- **AI Academic Advisor System**:  
+  Developing an AI-powered system that provides personalized learning and career guidance using machine learning algorithms. This system aims to help students make informed decisions about their learning paths and improve academic outcomes.
+
+\
+📫 **How to reach me**:  
+    📧 [abhisheksukhadiyaus38@gmail.com](mailto:abhisheksukhadiyaus38@gmail.com)  
+    🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-sukhadiya-9358a5190/)
+
+---
+
+I’m always open to collaborating on **AI/ML** and **Software Automation** projects!
+
+🌍 **Let’s Connect...**  
